@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Moving from React to Svelte"
 date: 2026-05-24 12:00:00 +0000
 categories: [development, frontend]
