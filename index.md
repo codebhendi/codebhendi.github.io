@@ -9,7 +9,7 @@ I write about building scalable UI systems, leading frontend teams, and the prac
 
 ## Articles
 
-### [Moving from React to Svelte]({% link _posts/2026-05-24-moving-from-react-to-svelte.md %})
+### [Moving from React to Svelte](/2026/05/24/moving-from-react-to-svelte.html)
 _May 24, 2026_
 
 A reflection on transitioning from React to Svelte in a production environment. Covers the mindset shift required, the benefits of simplicity, and lessons learned while building scalable UI systems at scale.
