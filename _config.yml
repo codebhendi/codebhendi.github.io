@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Shubham's Blog
 description: Bookmark this to keep an eye on my project updates.
+author: Shubham Bhendarkar
+author_bio: "Frontend engineer at Angel One (since 2023). Former React specialist who now builds scalable UI systems with Svelte and SvelteKit; focused on pragmatic, maintainable interfaces and clean CSS."
