@@ -1,5 +1,27 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-chirpy
 title: Shubham's Blog
-description: Bookmark this to keep an eye on my project updates.
+tagline: Frontend Engineering & UI Architecture
+description: Building scalable UI systems, leading frontend teams, and sharing lessons learned in modern web development.
 author: Shubham Bhendarkar
-author_bio: "Frontend engineer at Angel One (since 2023). Former React specialist who now builds scalable UI systems with Svelte and SvelteKit; focused on pragmatic, maintainable interfaces and clean CSS."
+author_bio: "Frontend engineer at Angel One. Specialized in UI architecture, component systems, and pragmatic solutions. Former React specialist building with Svelte."
+
+url: "https://codebhendi.github.io"
+
+# Chirpy theme settings
+lang: en
+timezone: UTC
+
+social:
+  name: Shubham Bhendarkar
+  links:
+    - https://linkedin.com/in/shubham-bhendarkar
+
+# Analytics
+analytics:
+  google:
+    id: ""
+
+comments:
+  active: disqus
+  disqus:
+    shortname: ""
